@@ -37,7 +37,7 @@
 <li><p>rabbit</p></li>
 </ul>
 <p>with full flexibility for parameterization of (anthropo)metrics, anatomical and physiological properties, protein expression levels ETC.</p>
-<p>Most important organs included. Optional intracellular processes can be includes:</p>
+<p>Most important organs included. For each organ optional processes can be added:</p>
 <ul>
 <li><p>metabolizing pathways</p></li>
 <li><p>different active transporter types(influx, efflux, Pgp-like)</p></li>
